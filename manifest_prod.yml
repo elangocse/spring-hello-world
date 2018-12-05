@@ -3,7 +3,7 @@ applications:
 - name: WorkBenchProj
   memory: 1024M
   instances: 1
-  path: target/WorkBenchProj-0.0.1-SNAPSHOT.jar
+  path: target/myproject-0.0.1-SNAPSHOT.jar
   services:
   - cloudapps-tool-registry
   - config-server
